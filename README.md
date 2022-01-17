@@ -6,7 +6,7 @@ This project is a command line application that automatically generates a profes
 
 ### Demonstration
 
-![README-Generator-Demo](https://i.ibb.co/L9MT11P/Professional-README-Generator.gif)
+![README-Generator-Demo](https://ibb.co/9yJxWWv)
 
 ![terminal-screen](https://i.ibb.co/0s5fYQN/Screen-Shot-2022-01-17-at-1-27-32-PM.png)
 
