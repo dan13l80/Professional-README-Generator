@@ -15,6 +15,11 @@ const questions = [
     },
     {
         type: "input",
+        message: "What is your email address?",
+        name: "email"
+    },
+    {
+        type: "input",
         message: "What is your project's title?",
         name: "title"
     },
@@ -100,10 +105,3 @@ const init = async () => {
 
 // function call to initialize program
 init();
-
-
-
-
-
-
-
