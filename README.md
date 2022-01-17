@@ -6,8 +6,6 @@ This project is a command line application that automatically generates a profes
 
 ### Demonstration
 
-![README-Generator-Demo](https://ibb.co/9yJxWWv)
-
 ![terminal-screen](https://i.ibb.co/0s5fYQN/Screen-Shot-2022-01-17-at-1-27-32-PM.png)
 
 Video demonstration of the application: [Professional README Generator Demo](https://youtu.be/Z-7ZTp6Snm8)
